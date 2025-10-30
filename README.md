@@ -1,5 +1,4 @@
 # MedTrack Analytics Power-BI Dashboard
-# Power BI Dashboard: [Link](https://app.powerbi.com/links/1ZwyfcRtfU?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare)
 
 # Project Overview
 In this project, a Power BI dashboard was designed to analyze healthcare metrics, focusing on hospital performance, patient care, and financial outcomes.
